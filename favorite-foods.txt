@@ -4,3 +4,4 @@ my Favorite foods:
 	Pizza
 	Pasta
 	ramen
+	sushi
