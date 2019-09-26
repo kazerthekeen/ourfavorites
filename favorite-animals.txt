@@ -1,2 +1,7 @@
-My favorite animals are 
-cats and antabids
+My favorite animals are
+- Cats
+- Antabids
+  - Betta Fish
+  - Gouramis
+  - Paradise Fish
+- Naked mole rats
