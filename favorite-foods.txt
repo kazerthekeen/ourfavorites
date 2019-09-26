@@ -5,3 +5,4 @@ my Favorite foods:
 	Pasta
 	ramen
 	sushi
+	Steak
